@@ -1,6 +1,6 @@
-import React, { useState } from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
+import React, { useState } from "react"
 
 const NAVLINK_CLASSES =
   "my-1 py-3 px-3 text-center font-medium text-gray-600 border-b-4 border-white hover:border-green-700 md:mx-2 md:my-0"
@@ -127,7 +127,7 @@ const Navbar = ({ className }) => {
               Contact
             </ExactNavLink>
             <a
-              href="https://github.com/jimmybutton/gatsby-netlifycms-tailwind-starter"
+              href="https://github.com/matt-de-young/gatsby-netlifycms-tailwind-starter"
               className="py-4 md:py-2 md:pl-4"
               rel="noreferrer"
               target="_blank"

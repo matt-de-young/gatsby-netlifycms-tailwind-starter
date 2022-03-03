@@ -1,12 +1,12 @@
 const siteUrl =
-  process.env.URL || `https://objective-thompson-fe2703.netlify.app`
+  process.env.URL || `https://nervous-varahamihira-f0c16d.netlify.app`
 
 module.exports = {
   siteMetadata: {
     title: "UrbanGarden",
     description:
       "Transforming and enriching our urban environments with green living spaces",
-    siteUrl: "https://objective-thompson-fe2703.netlify.app",
+    siteUrl: "https://nervous-varahamihira-f0c16d.netlify.app",
   },
   plugins: [
     {

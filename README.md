@@ -23,7 +23,7 @@ It's a website of a fake urban gardening agency and comprises of a landing page,
 
  👉 Check out the [demo site](https://infallible-varahamihira-058515.netlify.app/)!
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/jimmybutton/gatsby-netlifycms-tailwind-starter" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/matt-de-young/gatsby-netlifycms-tailwind-starter" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
 
 ## 🦾 Technologies and Plugins
 
@@ -42,7 +42,7 @@ It's a website of a fake urban gardening agency and comprises of a landing page,
 Start development environment with
 
 ```
-$ git clone https://github.com/jimmybutton/gatsby-netlifycms-tailwind-starter.git
+$ git clone https://github.com/matt-de-young/gatsby-netlifycms-tailwind-starter.git
 $ cd gatsby-netlifycms-tailwind-starter
 $ npm install
 $ gatsby develop
