@@ -5,7 +5,7 @@ date: 2021-07-24T16:01:51.183Z
 featured: false
 featuredimage:
   alt: Modern building with green outdoor space
-  image: /img/dsc09711.jpg
+  image: /img/10-10-6k.jpg
 location: Bern, Swizerland
 ---
 Photo by [Ricardo Gomez Angel](https://unsplash.com/@ripato?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/kDVcVtpJNeA/urban-garden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
